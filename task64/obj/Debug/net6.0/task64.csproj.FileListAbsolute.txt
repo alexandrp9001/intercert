@@ -1,0 +1,15 @@
+C:\C#\AM\intercert\task64\bin\Debug\net6.0\task64.exe
+C:\C#\AM\intercert\task64\bin\Debug\net6.0\task64.deps.json
+C:\C#\AM\intercert\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+C:\C#\AM\intercert\task64\bin\Debug\net6.0\task64.dll
+C:\C#\AM\intercert\task64\bin\Debug\net6.0\task64.pdb
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\task64.dll
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\refint\task64.dll
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\task64.pdb
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+C:\C#\AM\intercert\task64\obj\Debug\net6.0\ref\task64.dll
